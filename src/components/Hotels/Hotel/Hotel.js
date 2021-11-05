@@ -29,7 +29,7 @@ function Hotel() {
                             cos opis coscos opis coscos opis cos
                             cos opis coscos opis coscos opis cos
                             cos opis coscos opis coscos opis cos
-                            cos opis coscos opis coscos opis cos
+                            cos opis coscos opis coscos opis 
                         </p>
                     </div>
                 </div >
