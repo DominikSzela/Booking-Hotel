@@ -4,6 +4,7 @@ function Searchbar() {
 
     const [term, setTerm] = useState('');
 
+    const search = () => {console.log('szukaj', term)}
 
     return (
 
@@ -26,4 +27,4 @@ function Searchbar() {
     )
 }
 
-export default Searchbar;gi
+export default Searchbar;
