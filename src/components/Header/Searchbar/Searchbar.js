@@ -5,11 +5,6 @@ function Searchbar() {
     const [term, setTerm] = useState('');
 
 
-    const search = () => {
-        console.log('szukaj', term)
-    }
-
-
     return (
 
         <div className="d-flex">
@@ -31,4 +26,4 @@ function Searchbar() {
     )
 }
 
-export default Searchbar;
+export default Searchbar;gi
